@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "recipeJournal",
+    "slug": "recipeJournal",
+    "description": "Recipe Journal using vue-native-cli and expo-cli",
+    "platforms": [
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splashscreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+	"android": {
+      "package": "com.johnklein.recipeJournal",
+      "versionCode": 1
+    },
+	"androidStatusBarColor": "#80C13A",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#80C13A"
+    },
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "vue",
+        "js",
+        "json",
+        "ts",
+        "tsx"
+      ]
+    },	
+    "sdkVersion": "37.0.0"
+  }
+}
