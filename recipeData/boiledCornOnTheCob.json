@@ -1,0 +1,48 @@
+{
+	"title": "Boiled Corn On The Cob",
+	"subTitle": "Classic boiled corn on the cob recipe",
+	"image": "card-boiledCornOnTheCob.png",
+	"servings": 4,
+	"serves": 4,
+	"prepTime": "5 minutes",
+	"cookTime": "5 minutes",
+	"calories": 113,
+	"story": "Wondering how long to boil corn on the cob? We've got you covered with this classic boiled corn on the cob recipe.",
+	"ingredients": [
+		{
+			"measurement": "4 ears",
+			"item": "corn on the cob"
+		},
+		{
+			"measurement": "4 tsp",
+			"item": "butter"
+		},
+		{
+			"measurement": "1/8 tsp",
+			"item": "salt"
+		}
+	],
+	"instructions": [
+		{
+			"number": 1,
+			"step": "Peel the corn on the cob and remove the silks."				
+		},
+		{
+			"number": 2,
+			"step": "Fill a large stock pot or dutch oven about half full with water. Bring the water to a boil over medium heat."				
+		},
+		{
+			"number": 3,
+			"step": "Add the peeled corn on the cob. Cover and return to a boil. Cook for 5-7 minutes."				
+		},
+		{
+			"number": 4,
+			"step": "Remove the corn on the cob from the hot water and place on a platter. Serve while hot with butter and salt."				
+		}
+	],
+	"notes": [
+		{
+			"item": "Adding a cup of sugar to the boiling water makes the corn super sweet"
+		}
+	]
+}

@@ -88,7 +88,7 @@ export default {
 }
 .text-container {
   align-items: center;
-  margin-bottom: 50;
+  margin-bottom: 30;
   background-color: transparent;
 }
 .text-color {

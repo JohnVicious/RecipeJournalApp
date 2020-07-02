@@ -5,14 +5,14 @@
 				<nb-left>
 					<nb-body>
 						<nb-text>{{recipeData.Title}}</nb-text>
-						<nb-text note>{{recipeData.Title}}</nb-text>
+						<nb-text note>{{recipeData.SubTitle}}</nb-text>
 					</nb-body>
 				</nb-left>
 			</nb-card-item>
 
 			<nb-card-item cardBody>
 				<image
-					:source="cardImage"
+					:source="{uri: getCardImage(recipeData.Image)}"
 					class="card-item-image"
 					:style="stylesObj.cardItemImage"
 				/>
@@ -37,14 +37,11 @@
 </template>
 
 <script>
-	import cardImage from "../../assets/card-noImage.png";
-	
 	export default {
 		name: 'recipeCard',
 		props: ["recipeData","handler"],
 		data: function(){
 			return {
-				cardImage,
 				routeInfo: {
 					route: "Recipe"
 				},
@@ -60,6 +57,13 @@
 						backgroundColor: "#fff"
 					}
 				}
+			}
+		},
+		methods: {
+			getCardImage(imageSource){
+				var img = imageSource;
+				var imgRequire = 'https://www.johnklein.dev/RecipeJournal/assets/recipeImages/'+img;
+				return imgRequire;
 			}
 		}
 	};

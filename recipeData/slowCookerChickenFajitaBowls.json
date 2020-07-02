@@ -1,0 +1,100 @@
+{
+	"title": "Slow Cooker Chicken Fajita Bowls",
+	"subTitle": "Delicious and easy!",
+	"image": "card-slowCookerChickenFajitaBowls.png",
+	"servings": 8,
+	"serves": 0,
+	"prepTime": "10 minutes",
+	"cookTime": "3.5 hours",
+	"calories": 0,
+	"story": "",
+	"ingredients": [
+		{
+			"measurement": "4",
+			"item": "red bell pepper, sliced"
+		},
+		{
+			"measurement": "1",
+			"item": "yellow bell pepper, sliced"
+		},
+		{
+			"measurement": "1",
+			"item": "green bell pepper, sliced"
+		},
+		{
+			"measurement": "1",
+			"item": "yellow onion, sliced"
+		},
+		{
+			"measurement": "2 lb.",
+			"item": "chicken breast, sliced in half"
+		},
+		{
+			"measurement": "2 Tbsp.",
+			"item": "taco seasoning"
+		},
+		{
+			"measurement": "",
+			"item": "Salt, to taste"
+		},
+		{
+			"measurement": "",
+			"item": "Pepper, to taste"
+		},
+		{
+			"measurement": "4",
+			"item": "garlics, minced"
+		},
+		{
+			"measurement": "1",
+			"item": "lime, juiced"
+		},
+		{
+			"measurement": "1 can",
+			"item": "diced tomato, drained"
+		},
+		{
+			"measurement": "4 cups",
+			"item": "rice, cooked"
+		},
+		{
+			"measurement": "",
+			"item": "garnishes (sour cream, guacamole, cilantro, shredded cheese)"
+		}
+	],
+	"instructions": [
+		{
+			"number": 1,
+			"step": "In a slow cooker, place half of the bell peppers and onion."
+		},
+		{
+			"number": 2,
+			"step": "Lay on the chicken, and coat both sides with taco seasoning, salt, and pepper."
+		},
+		{
+			"number": 3,
+			"step": "Sprinkle on garlic, half of the lime juice, and diced tomatoes. Cover with remaining peppers, onion, and lime juice."
+		},
+		{
+			"number": 4,
+			"step": "Cover and cook on high for 3 hours."
+		},
+		{
+			"number": 5,
+			"step": "Remove chicken from the slow cooker, shred, and return to slow cooker."
+		},
+		{
+			"number": 6,
+			"step": "Cover until heated through."
+		},
+		{
+			"number": 7,
+			"step": "Serve over rice with garnishes."
+		}
+	],
+	"notes": [
+		{
+			"item": "Makes too many serving in my opinion."
+		}
+	]
+}
