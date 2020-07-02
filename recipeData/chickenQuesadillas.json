@@ -1,0 +1,80 @@
+{
+	"title": "Easy Chicken Quesadilla",
+	"subTitle": "Do I even NEED a recipe for quesadillas?",
+	"image": "card-chickenQuesadillas.png",
+	"servings": 4,
+	"serves": 0,
+	"prepTime": "10 minutes",
+	"cookTime": "40 minutes",
+	"calories": 0,
+	"story": "Perfect blend of cheeses, flavorful sautéed veggies, and lots of hearty fillings that take the quesadilla from dorm food to a healthy, rounded meal.",
+	"ingredients": [
+		{
+			"measurement": "1 tbsp.",
+			"item": "extra-virgin olive oil"
+		},{
+			"measurement": "2",
+			"item": "bell peppers, thinly sliced"
+		},{
+			"measurement": "1/2",
+			"item": "onion, thinly sliced"
+		},{
+			"measurement": "",
+			"item": "salt"
+		},{
+			"measurement": "",
+			"item": "black pepper"
+		},{
+			"measurement": "1 lb.",
+			"item": "boneless skinless chicken breasts, cliced into strips"
+		},{
+			"measurement": "1/2 tsp.",
+			"item": "chili power"
+		},{
+			"measurement": "1/2 tsp.",
+			"item": "groun cumin"
+		},{
+			"measurement": "1/2 tsp.",
+			"item": "dried oregano"
+		},{
+			"measurement": "4",
+			"item": "medium flour tortillas"
+		},{
+			"measurement": "2 cups",
+			"item": "shredded monterey jack"
+		},{
+			"measurement": "2 cups",
+			"item": "shredded cheddar"
+		},{
+			"measurement": "1",
+			"item": "avocado, sliced"
+		},{
+			"measurement": "1 tbsp.",
+			"item": "vegetable oil"
+		},{
+			"measurement": "2",
+			"item": "green onions, thinly sliced"
+		},{
+			"measurement": "",
+			"item": "sour cream, for serving"
+		}
+	],
+	"instructions": [
+		{
+			"number": 1,
+			"step": "In a large skillet over medium-high heat, heat olive oil. Add peppers and onion and season with salt and pepper. Cook until soft, 5 minutes. Transfer to a plate."				
+		},{
+			"number": 2,
+			"step": "Heat remaining tablespoon vegetable oil over medium-high heat. Season chicken with spices, salt, and pepper and cook, stirring occasionally, until golden and cooked through, 8 minutes. Transfer to a plate."				
+		},{
+			"number": 3,
+			"step": "Add 1 flour tortilla to skillet and top half of the tortilla with a heavy sprinkling of both cheeses, cooked chicken mixture, pepper-onion mixture, a few slices of avocado, and green onions. Fold the other half of the tortilla over and cook, flipping once, until golden, 3 minutes per side. Repeat to make 4 quesadillas."				
+		},{
+			"number": 4,
+			"step": "Slice into wedges and serve with sour cream."				
+		}
+	],
+	"notes": [
+		
+	]
+}
