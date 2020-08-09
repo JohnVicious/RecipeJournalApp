@@ -3,6 +3,7 @@
 		<view>
 			<nb-text>
 				FAVORITES
+				UNDER CONSTRUCTION!
             </nb-text>
 		</view>
 	</nb-container>

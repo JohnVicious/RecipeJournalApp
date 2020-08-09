@@ -80,6 +80,12 @@ export default {
           route: "Favorites",
           icon: "star",
           bg: "#C5F442"
+        },
+        {
+          name: "Add Recipe",
+          route: "AddRecipe",
+          icon: "add",
+          bg: "#C5F442"
         }
       ]
     };

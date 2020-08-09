@@ -16,13 +16,15 @@ import HomeScreen from "./screens/home.vue";
 import RecipesScreen from "./screens/recipes.vue";
 import RecipeScreen from "./screens/recipe.vue";
 import FavoritesScreen from "./screens/favorites.vue";
+import AddRecipeScreen from "./screens/addRecipe.vue";
 import SideBarScreen from "./screens/sidebar.vue";
 
 const Drawer = createDrawerNavigator(
 	{
 		Home: { screen: HomeScreen },
 		Recipes: { screen: RecipesScreen },
-		Favorites: { screen: FavoritesScreen }
+		Favorites: { screen: FavoritesScreen },
+		AddRecipe: { screen: AddRecipeScreen }
 	},
 	{
 		initialRouteName: "Home",
@@ -37,7 +39,8 @@ const AppNavigation = createAppContainer(
 	createStackNavigator(
 		{
 			Drawer: { screen: Drawer },
-			Recipe: { screen: RecipeScreen }
+			Recipe: { screen: RecipeScreen },			
+			AddRecipe: { screen: AddRecipeScreen }
 		},
 		{
 			initialRouteName: "Drawer",
